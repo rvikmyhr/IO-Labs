@@ -1,0 +1,32 @@
+John
+Smith
+1234 Wilson Rd
+Brookfield
+WI
+53005
+262-555-5555
+jsmith@email.com
+Bill
+Brown
+4321 Flamingo Rd
+Las Vegas
+NV
+89104
+702-555-5555
+bbrown@email.com
+Megan
+Doe
+333 99th St
+Milwaukee
+WI
+55055
+414-555-5555
+mdoe@email.com
+Sara
+White
+789 Apple Ave
+San Angelo
+TX
+77125
+642-555-555
+swhite@email.com
